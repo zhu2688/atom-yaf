@@ -8,7 +8,7 @@
   "activationCommands": {
     "atom-workspace": "atom-yaf:toggle"
   },
-  "repository": "https://github.com/atom/atom-yaf",
+  "repository": "https://github.com/zhu2688/atom-yaf",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
